@@ -1,12 +1,16 @@
-# Ciência Poleica II
+# Ciência Política II
+
+## Professor: Jairo Nicolau
 
 Material do curso, oferecido no primeiro semestre de 2021 na Escola de Cências Sociais da FGV CPDOC
+
 
 Roteiro das aulas:
 
 - Aula 1 (01/02) - Apresentação
 
 - Aula 2 (03/02) - A política antes da era moderna
+
 
 - Aula 3 (08/02) - Maquiavel
 
