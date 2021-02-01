@@ -24,20 +24,20 @@ A avaliação do desempenho dos alunos se comporá de duas notas. Na A1, os alun
 
 ###  Aula 3 (08/02) e Aula 4 (10/02) - O realismo político de Maquiavel
 
-TEXTOS DE MAQUIAVEL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 22 p.
+- TEXTOS DE MAQUIAVEL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 22 p.
 
 ###  Aula 5 (22/02) e  Aula 6 (24/02) -  Contratualismo e teoria do Estado em Hobbes
 
-HOBBES, Thomas. Leviatã ou matéria, forma e poder de um estado eclesiástico e civil. Dedicatória, introdução e capítulos XVII, XVIII e XIX da Segunda Parte. 21 pp.
+- HOBBES, Thomas. Leviatã ou matéria, forma e poder de um estado eclesiástico e civil. Dedicatória, introdução e capítulos XVII, XVIII e XIX da Segunda Parte. 21 pp.
 
 
 ###  Aula 7 (01/03)  Aula 8 (03/03) - Liberdade e democracia em Rousseau
 
-TEXTOS DE ROUSSEAU. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 32 p.
+- TEXTOS DE ROUSSEAU. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 32 p.
 
 ### Aula 9 (08/03) Aula 10 (10/03) - Locke e o nascimento do liberalismo
 
-TEXTOS DE LOCKE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 17 p.
+- TEXTOS DE LOCKE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 17 p.
 
 ### Aula 11 (15/03) e  Aula 12 (17/03) -  O conservadorismo de Burke
 
@@ -46,7 +46,7 @@ TEXTOS DE LOCKE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. Sã
 
 ### Aula 13 (22/03) e Aula 14 (24/03) -  Montesquieu e as formas de governo 
 
- MONTESQUIEU, Charles de Secondat. O espírito das leis. Apresentação Renato Janine Ribeiro, São Paulo: Martins Fontes, 1996. Livro décimo primeiro – Das leis que formam a liberdade política em sua relação com a constituição. 23 pp.
+- MONTESQUIEU, Charles de Secondat. O espírito das leis. Apresentação Renato Janine Ribeiro, São Paulo: Martins Fontes, 1996. Livro décimo primeiro – Das leis que formam a liberdade política em sua relação com a constituição. 23 pp.
 
 ### Aula 15 (29/03) e Aula 16 (31/03) - Revisão
 
@@ -59,23 +59,23 @@ TEXTOS DE LOCKE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. Sã
 
 ### Aula 18 (26/04) e Aula 19 (28/04) - Mary Wollstonecraft
 
-WOLLSTONECRAFT, Mary. ed. São Paulo: Boitempo : Iskra, 2016. Dedicatória, introdução, capítulos 1 e 2. 37 p.
+- WOLLSTONECRAFT, Mary. ed. São Paulo: Boitempo : Iskra, 2016. Dedicatória, introdução, capítulos 1 e 2. 37 p.
 Reivindicação dos direitos da mulher [recurso eletrônico].
 
 
 #### Aula 20 (3/05) e Aula 21 (5/05) - Tocqueville e a democracia
 
-TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 19 p.
+- TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 19 p.
 
 
 ### Aula 22 (10/05) e Mill Aula 23 (12/05) - A liberdade em Mill
 
-TEXTOS DE STUART MILL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 16 p.
+- TEXTOS DE STUART MILL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 16 p.
 
 
 ### Aula 24 (17/05)  e Aula 25 (19/05) - Marx e seu manifesto
  
-TEXTOS DE MARX. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo:
+- TEXTOS DE MARX. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo:
 Ed. Ática, 2000. 18 p.
 
 ### Aula 26 (24/05) - Aula 27 (26/05) - A política como vocação em Weber
