@@ -26,6 +26,8 @@ A avaliação do desempenho dos alunos se comporá de duas notas. Na A1, os alun
 
 - TEXTOS DE MAQUIAVEL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 22 p.
 
+video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s 
+
 ###  Aula 5 (22/02) e  Aula 6 (24/02) -  Contratualismo e teoria do Estado em Hobbes
 
 - HOBBES, Thomas. Leviatã ou matéria, forma e poder de um estado eclesiástico e civil. Dedicatória, introdução e capítulos XVII, XVIII e XIX da Segunda Parte. 21 pp.
