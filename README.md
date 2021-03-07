@@ -66,7 +66,7 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 - CONSTANT, Benjamin. Da liberdade dos antigos comparada à liberdade dos modernos. Revista Filosofia Política n. 2, Porto Alegre: L&PM, 1985. 7 p.
 
 
-#### Aula 20 (3/05) e Aula 21 (5/05) -  A democracia em Tocqueville
+### Aula 20 (3/05) e Aula 21 (5/05) -  A democracia em Tocqueville
 
 TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 19 p.
 
