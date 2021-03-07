@@ -44,10 +44,20 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 
 - Sandel, Michael, Jutiça, cap.2
 
+-Questões para leitura:
+
+1 - Quais foram as iniciativas de políticas públicas sugeridas por Bentham para melhorar a vida dos ingleses? Acredita que alguma política social recenete é orientando pelas premissas benthamistas?
+
+2 - O utilitarismo relamente desconsidera s direitos individuais? Qual seria a justificativa para considerá-lo?
+
+3 - A partir da ideia de limites de calculo de custos/benefícios para valores éticos, quando cada família dos menisos mortos no incêndio na Gávea deveria receber?
+
+4 - O que são os prazere mais elevados para Mill? 
+
+
 ### Aula 11 (15/03)  Aula 12 (17/03) -  A liberdade em Mill
 
  TEXTOS DE STUART MILL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 16 p.
-
 
 ### Aula 13 (22/03) e Aula 14 (24/03) -  É possivel discordar em um mundo tribalizado?
 
@@ -75,9 +85,7 @@ TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 
 - TEXTOS DE MARX. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo:
 Ed. Ática, 2000. 18 p.
 
--
 ### Aula 24 (17/05)  e Aula 25 (19/05) - A política como vocação em Weber
-
 
 ### Aula 26 (24/05) - Aula 27 (26/05) - Schumpeter
 
