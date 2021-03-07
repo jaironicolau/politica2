@@ -37,11 +37,14 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 - TEXTOS DE ROUSSEAU. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 1. São Paulo: Ed. Ática, 2000. 32 p.
 
 
-### Aula 9 (08/03) Aula 10 (10/03) - Utilitarismo
+### Aula 9 (08/03) Utilitarismo
 
-- 
 
-### Aula 11 (15/03) e  Aula 12 (17/03) -  A liberdade em Mill
+### Aula 10 (10/03) Utilitarismo
+
+- Sandel, Michael, Jutiça, cap.2
+
+### Aula 11 (15/03)  Aula 12 (17/03) -  A liberdade em Mill
 
  TEXTOS DE STUART MILL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 16 p.
 
@@ -58,12 +61,14 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 ### Aula 17 (21/04) - Entrega de Notas
 
 
-### Aula 18 (26/04) e Aula 19 (28/04) - Conservadores
+### Aula 18 (26/04) e Aula 19 (28/04) - A liberdade em Benjamin Constant
 
-- 
+- CONSTANT, Benjamin. Da liberdade dos antigos comparada à liberdade dos modernos. Revista Filosofia Política n. 2, Porto Alegre: L&PM, 1985. 7 p.
 
-#### Aula 20 (3/05) e Aula 21 (5/05) -  Libertários 
 
+#### Aula 20 (3/05) e Aula 21 (5/05) -  A democracia em Tocqueville
+
+TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 19 p.
 
 ### Aula 22 (10/05) e Mill Aula 23 (12/05) - Marx e seu manifesto
  
