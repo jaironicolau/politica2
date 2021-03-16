@@ -57,9 +57,10 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 
 ### Aula 11 (15/03)  Aula 12 (17/03) -  A liberdade em Mill
 
- TEXTOS DE STUART MILL. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 16 p.
+ Mill, John Stuart, Sobre a liberdade, capitulos 1 e 2, Cia das Letras, 2017
+ 
 
-### Aula 13 (22/03) e Aula 14 (24/03) -  É possivel discordar em um mundo tribalizado?
+### Aula 13 (22/03) e Aula 14 (24/03) -  Os libertários
 
 
 ### Aula 15 (29/03) e Aula 16 (31/03) - Revisão
@@ -86,6 +87,7 @@ TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 
 Ed. Ática, 2000. 18 p.
 
 ### Aula 24 (17/05)  e Aula 25 (19/05) - A política como vocação em Weber
+
 
 ### Aula 26 (24/05) - Aula 27 (26/05) - Schumpeter
 
