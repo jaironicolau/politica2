@@ -60,10 +60,16 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
  Mill, John Stuart, Sobre a liberdade, capitulos 1 e 2, Cia das Letras, 2017
  
 
-### Aula 13 (22/03) e Aula 14 (24/03) -  Os libertários
+### Aula 13 (22/03) - A liberdade em Mill
 
 
-### Aula 15 (29/03) e Aula 16 (31/03) - Revisão
+### Aula 14 (24/03) -  Os libertários
+
+
+### Aula 15 (29/03) - Os libetários 
+
+
+### Aula 16 (31/03) - Revisão
 
 
 ### A1 e semana de integração
