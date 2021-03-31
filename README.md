@@ -69,7 +69,18 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 ### Aula 15 (29/03) - Os libetários 
 
 
-### Aula 16 (31/03) - Revisão
+### Aula 16 (31/03) - Trabalho de A1
+
+Selecione um debate contemporâneo sobre alguma controversia moral ou de política pública.; pode ser no Brasil ou no exterior. 
+A partir dos textos e discussões em aula:
+
+- Como um autor/corrente de pensamento defenderiam ou criticariam esse tema/política pública?
+(Se fizer referência aos textos discutidos, não esqueça de colocar a passagem originla entre aspas)
+
+- Total de palavras: 1200
+
+- Data de entrega: dia 11 de abril às 24h. O trabalho deve ser entregue pela plataforma Zoom
+
 
 
 ### A1 e semana de integração
