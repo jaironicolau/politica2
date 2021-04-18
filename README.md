@@ -89,10 +89,19 @@ A partir dos textos e discussões em aula:
 ### Aula 17 (18/04) - Entrega de Notas
 
 
-### Aula 18 (26/04)  e Aula 19 (28/04) - Weber e a vocação da politica 1
+### Aula 18 (26/04) - Weber e a vocação da politica 1
 
+A politica como vocacação: pags 7-37
 
-### Aula 20 (3/05) e Aula 21 (5/05) -   Weber e a vocação da politica 2
+### Aula 19 (28/04) - Weber e a vocação da politica 2
+
+A politica como vocação: pags 38- 70
+
+### Aula 20 (3/05) - Weber e a vocação da politica  3
+
+A politica como vocação: pags 71 - 110
+
+### Aula 21 (5/05) -  Trabalho: A vocação dos políticos brasileiros 
 
 
 ### Aula 18 (10/05) e Aula 19 (12/05) - A politica dos antigos e dos modernos 
