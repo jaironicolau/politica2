@@ -86,27 +86,24 @@ A partir dos textos e discussões em aula:
 ### A1 e semana de integração
 
 
-### Aula 17 (21/04) - Entrega de Notas
+### Aula 17 (18/04) - Entrega de Notas
 
 
-### Aula 18 (26/04) e Aula 19 (28/04) - A liberdade em Benjamin Constant
+### Aula 18 (26/04)  e Aula 19 (28/04) - Weber e a vocação da politica 1
+
+
+### Aula 20 (3/05) e Aula 21 (5/05) -   Weber e a vocação da politica 2
+
+
+### Aula 18 (10/05) e Aula 19 (12/05) - A politica dos antigos e dos modernos 
 
 - CONSTANT, Benjamin. Da liberdade dos antigos comparada à liberdade dos modernos. Revista Filosofia Política n. 2, Porto Alegre: L&PM, 1985. 7 p.
 
 
-### Aula 20 (3/05) e Aula 21 (5/05) -  A democracia em Tocqueville
-
-TEXTOS DE TOCQUEVILLE. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo: Ed. Ática, 2000. 19 p.
-
-### Aula 22 (10/05) e Mill Aula 23 (12/05) - Marx e seu manifesto
+### Aula 22 (17/05) e Mill Aula 23 (19/05) - Marx e seu manifesto
  
-- TEXTOS DE MARX. In: WEFFORT, Francisco. Os Clássicos da Política. Vol. 2. São Paulo:
-Ed. Ática, 2000. 18 p.
 
-### Aula 24 (17/05)  e Aula 25 (19/05) - A política como vocação em Weber
-
-
-### Aula 26 (24/05) - Aula 27 (26/05) - Schumpeter
+### Aula 26 (24/05) - Aula 27 (26/06) - Schumpeter
 
 
 ### Aula 28 (31/05) e Aula 29 (02/06) - Revisão
