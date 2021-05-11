@@ -82,7 +82,6 @@ A partir dos textos e discussões em aula:
 - Data de entrega: dia 11 de abril às 24h. O trabalho deve ser entregue pela plataforma Zoom
 
 
-
 ### A1 e semana de integração
 
 
@@ -104,21 +103,61 @@ A politica como vocação: pags 71 - 110
 ### Aula 21 (5/05) -  Trabalho: A vocação dos políticos brasileiros 
 
 
-### Aula 18 (10/05) e Aula 19 (12/05) - A politica dos antigos e dos modernos 
-
-- CONSTANT, Benjamin. Da liberdade dos antigos comparada à liberdade dos modernos. Revista Filosofia Política n. 2, Porto Alegre: L&PM, 1985. 7 p.
+### Aula 18 (10/05)  -  Trabalho : A vocação dos políticos brasileiros 
 
 
-### Aula 22 (17/05) e Mill Aula 23 (19/05) - Marx e seu manifesto
+### Aula 19 (12/05) -  A vocação do poder 
+
+
+### Aula 22 (17/05) - A desobediência Civil
+
+
+### Aula 23 (19/05) - Como fazer uma apresentação
+
+
+### Aula 26 (24/05) - Fukuyama
+
+1- O que é desenvolvimento político
+
+2- Dimensões do desenvolvimento
+
+3 - Burocracia
+
+
+#### Aula 27 (26/06) - Fukuyama, Ordem e decadência política
+
+5- Corrupção
+
+9 - A América inventa o clientelismo
+
+12 - Construção de nações 
+
+
+### Aula 28 (31/05) - Fukuyama, Ordem e decadência política
+
+27 - Pq a democracia se difundiu
+
+28 - A longa estrada para a democracia
+
+29 - de 1848 à primavera árabe
+
+
+
+### Aula 29 (02/06) - Fukuyama, Ordem e decadência política
+
+30 - A classe média e o futuro da democracia
+
+35 - Autonomia e subordinação
+
+36 - Ordem e decadência política
+
+
  
+### Aula 30 (07/06) - 
 
-### Aula 26 (24/05) - Aula 27 (26/06) - Schumpeter
 
 
-### Aula 28 (31/05) e Aula 29 (02/06) - Revisão
-
- 
-### Aula 30 (07/06) e Aula 31 (9/06)  - Avaliação Final
+#### Aula 31 (9/06)  - 
 
 
 
