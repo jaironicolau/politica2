@@ -66,7 +66,7 @@ video recomendado: https://www.youtube.com/watch?v=CKGuzJ6GwHM&t=353s
 ### Aula 14 (24/03) -  Os libertários
 
 
-### Aula 15 (29/03) - Os libetários 
+### Aula 15 (29/03) - Os libertários 
 
 
 ### Aula 16 (31/03) - Trabalho de A1
@@ -124,7 +124,7 @@ A politica como vocação: pags 71 - 110
 3 - Burocracia
 
 
-#### Aula 27 (26/06) - Fukuyama, Ordem e decadência política
+### Aula 27 (26/06) - Fukuyama, Ordem e decadência política
 
 5- Corrupção
 
